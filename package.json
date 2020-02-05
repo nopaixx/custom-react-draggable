@@ -1,5 +1,5 @@
 {
-	"name": "custom-react-draggable",
+	"name": "react-draggable",
 	"version": "4.2.0",
 	"description": "React draggable component",
 	"main": "build/cjs/cjs.js",
@@ -23,10 +23,6 @@
 	],
 	"typings": "./typings/index.d.ts",
 	"types": "./typings/index.d.ts",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/mzabriskie/react-draggable.git"
-	},
 	"keywords": [
 		"react",
 		"draggable",
